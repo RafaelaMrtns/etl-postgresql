@@ -167,7 +167,7 @@ Crie um arquivo `.env` na raiz do projeto:
 ```env
 DB_HOST=localhost
 DB_PORT=5432
-DB_NAME=Aula_Fametro
+DB_NAME=nome_bd
 DB_USER=postgres
 DB_PASSWORD=sua_senha
 ```
